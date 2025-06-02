@@ -1,0 +1,6 @@
+Nama          : الطلاق
+Nama Latin    : At-Talaq
+Jumlah Ayat   : 12
+Tempat Turun  : Madinah
+Arti          : Talak
+Deskripsi     : Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat <i>Ath Thalaaq</i> karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.

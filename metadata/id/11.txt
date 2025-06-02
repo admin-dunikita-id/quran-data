@@ -1,0 +1,6 @@
+Nama          : هود
+Nama Latin    : Hud
+Jumlah Ayat   : 123
+Tempat Turun  : Makkah
+Arti          : Hud
+Deskripsi     : Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai <i>surat Huud</i> karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.

@@ -1,0 +1,6 @@
+Nama          : الفجر
+Nama Latin    : Al-Fajr
+Jumlah Ayat   : 30
+Tempat Turun  : Makkah
+Arti          : Fajar
+Deskripsi     : Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama <i>Al Fajr</i> diambil dari kata <i>Al Fajr</i> yang terdapat pada ayat pertama surat ini yang artinya <i>fajar</i>.

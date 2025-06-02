@@ -1,0 +1,6 @@
+Nama          : البلد
+Nama Latin    : Al-Balad
+Jumlah Ayat   : 20
+Tempat Turun  : Makkah
+Arti          : Negeri
+Deskripsi     : Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai <i>Al Balad</i>, diambil dari perkataan <i>Al Balad</i> yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.
